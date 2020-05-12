@@ -1,0 +1,8 @@
+body{
+    background: #ddd;
+}
+.posts-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
